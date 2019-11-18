@@ -1,0 +1,38 @@
+.badge {
+  margin: 5px;
+padding: 5px;
+}
+.margin-top {
+  margin-top: 15px;
+}
+.badge-collector{
+  margin-left: 45px;
+}
+.btn{
+  margin: 5px
+}
+.post-card {
+  padding-right: 5px !important;
+    padding-left: 0px !important;
+    margin-bottom: 5px;
+
+}
+form {
+  text-transform: capitalize;
+}
+.cat {
+  font-size: 100% !important;
+}
+.submit-save {
+  margin-top: 35px;
+    margin-left: 30px;
+}
+
+.mgi{
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+td {
+  max-width: 300px;
+}
