@@ -1,11 +1,11 @@
 const config = {
-  MongoURI : "mongodb://localhost:27017/test",
+  MongoURI : "YOUR_FB_MONGODB_URL",
   port: 8080,
   BASE_URL:"https://localhost:8080",
-  FACEBOOK_ID: "500556954068937",
-  FACEBOOK_SECRET: "498cab467c064725f6533f41c86db656",
+  FACEBOOK_ID: "YOUR_FB_APP_ID",
+  FACEBOOK_SECRET: "YOUR_FB_APP_SECRET",
   SESSION_SECRET: 'top_secret',
-  GROUP_ID: '417061505862004',
+  GROUP_ID: 'YOUR_GROUP_ID',
   PER_PAGE:12
 };
 
